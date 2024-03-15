@@ -3,7 +3,7 @@ The repository contains the deterministic Excel model and Python code to conduct
 
 Here is a step-by-step guide to see how simulations were conducted for the purposes of the document titled - Monte Carlo Simulations for Scenario Analysis in Financial Modeling.
 
-Step 1: Download the Excel and Python files in the same directory.
+Step 1: Download the Excel and Python files in the same directory. (Excel File: Optimal; Python File: Excel & Python)
 
 Step 2: Function change_inputs() (Line 57) contains all the distribution assumptions used for our simulations; you can change it according to your thesis.
 
